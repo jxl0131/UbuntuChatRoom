@@ -24,3 +24,7 @@ Then type ```./chat.sh``` to start our chat script.....
 Your nickname will by asked, so no one knows your real identity.
 
 Just enjoy it!
+
+## Warning
+
+The script relys on shell command ```who am i``` on ubuntu. If your ubuntu return nothing for  ```who am i```, it will not work very well on your ubuntu. 
