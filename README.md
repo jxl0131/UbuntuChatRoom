@@ -6,7 +6,7 @@ This is a simple chatRoom used on ubuntu!
 
 Download the code from this here, unnzip UbuntuChatRoom-master.zip and put all the content in ~/ directly.
 Files structure like:
-```
+
 \home\USER_NAME\--chat.sh
 		|-chatRoom\--xxx
 			   |-xxx
